@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bio-optimizer-hub.github.io/bio-optimizer-hub/sitemap.xml
